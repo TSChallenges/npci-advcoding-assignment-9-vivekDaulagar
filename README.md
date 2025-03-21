@@ -98,7 +98,7 @@ Starter code for below functionalities have already provided:
 
 
 ## Submission Requirements:
-Implement the required tasks for the provided Spring Boot application. You can use Postman or cURL commands to test your API endpoints.
+Implement the required tasks for the provided Spring Boot application. You can use Postman or cURL commands to test your API endpoints. You can also check the tables and their content present on the database(provided to you) using this [link](https://yrajm1997-accessing-db.hf.space).
 
 Add the required execution screenshots, such as docker commands execution, in the `SubmissionImages` folder.
 
